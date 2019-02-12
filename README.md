@@ -1,6 +1,8 @@
 # africanerd-ProjectScrumBoard
  Application Name: AfricaNerd - Project Scrumboard App
  
+ Application link - https://africanerdprojectscrumboard.herokuapp.com/#!/login
+ 
  Description: The app consists of thre main parts:
     1. A public site that lets people manage scrum projects
     2. Teams can update, delete, add or move scrum projects from start to finish
